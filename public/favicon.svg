@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#151c4a"/>
+      <stop offset="1" stop-color="#070b1f"/>
+    </linearGradient>
+    <linearGradient id="liq" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="392" cy="118" r="7" fill="#fff" opacity="0.8"/>
+  <circle cx="120" cy="150" r="5" fill="#22d3ee" opacity="0.9"/>
+  <circle cx="410" cy="300" r="4" fill="#a855f7"/>
+  <!-- الدورق -->
+  <path d="M206 128h100M220 128v92L140 362a40 40 0 0 0 35 60h162a40 40 0 0 0 35-60L292 220v-92" fill="#e8f4ff" stroke="#0b1028" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M168 330h176l26 42a24 24 0 0 1-21 36H163a24 24 0 0 1-21-36z" fill="url(#liq)"/>
+  <circle cx="222" cy="372" r="14" fill="#e8f4ff" opacity="0.85"/>
+  <circle cx="282" cy="352" r="9" fill="#e8f4ff" opacity="0.7"/>
+  <path d="M140 362a40 40 0 0 0 35 60h162a40 40 0 0 0 35-60" fill="none" stroke="#0b1028" stroke-width="22" stroke-linecap="round"/>
+</svg>
